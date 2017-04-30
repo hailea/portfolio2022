@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline|Lobster|Pacifico');
+body{
+  font-family: 'Rochester', cursive;
+  background-color:#FFF;
+  border:5px double #175b8b;
+  padding: 1% 1% 1% 1%;
+  margin: 1% 1% 1% 1%;
+  }
+.mainContainer{
+  background: url("https://haileababrha.files.wordpress.com/2017/03/alex_tn.jpg") left top no-repeat, url("https://haileababrha.files.wordpress.com/2017/03/bkwhite.jpg") left top repeat;
+ background-size: 100% 5%, 5% 5%;
+}
+.hLogoText{
+  font-family: 'Pacifico', cursive;font-size: 6em;margin:0% 0% 0% 0%;
+}
+.linkStyle{
+  margin:2% 0% 1% 1%;
+}
+a{
+  margin:0% 0.5% 1% 0.5%;
+}
+.imgHaileab{
+  border-radius:50%;
+  /*border:20px double #1D2731;*/
+  margin:0% 0% 0% -5%;
+}
+.spaceHolder{
+  background-image: radial-gradient(ellipse farthest-corner at 45px 45px , #000F00 10%, rgba(255, 255, 200, 0.8) 50%, #808080 95%);
+}
+footer{
+  margin:2% 0% 0% 0%;
+  width: 1000vh;
+  background-color:#005;
+  background-image: radial-gradient(ellipse farthest-corner at 145px 45px , #000000 10%, rgba(0, 0, 0, 0.8) 50%, #808080 95%);
+  color:#FFC;
+}
